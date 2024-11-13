@@ -1,0 +1,8 @@
+---
+title: "Introduction"
+output: html_document
+---
+
+# Introduction
+
+The World Development Indicators (WDI) serve as a premier source for development data, widely used by governments, researchers, journalists, and the public. Starting as a small set of tables in the 1978 World Development Report, the WDI has grown to encompass over 1,400 indicators covering 217 economies.

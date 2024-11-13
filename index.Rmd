@@ -1,0 +1,18 @@
+---
+title: "Choosing the World Development Indicators"
+output: html_document
+---
+
+# Welcome to the WDI Guide
+
+This website provides a comprehensive guide to indicator selection for the World Development Indicators (WDI).
+
+## Overview
+
+The World Development Indicators (WDI) are a key resource for policymakers, researchers, and the public, offering a reliable collection of development data. Use the navigation bar to explore sections such as the indicator framework, metrics, and evaluation criteria.
+
+## Table of Contents
+
+- [Introduction](section1.html)
+- [Framework for Assessing Indicators](section2.html)
+

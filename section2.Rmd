@@ -1,0 +1,8 @@
+---
+title: "Framework for Assessing Indicators"
+output: html_document
+---
+
+# Framework for Assessing Indicators
+
+The WDI team has introduced a revised framework based on the 2021 World Development Report. This framework evaluates indicators based on four key dimensions: ease of use, trustworthiness, comprehensive coverage, and high quality.

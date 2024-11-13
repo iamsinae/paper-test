@@ -1,0 +1,20 @@
+name: "WDI-Indicator-Selection"
+title: "Choosing the World Development Indicators"
+navbar:
+  title: "WDI Guide"
+  left:
+    - text: "Home"
+      href: index.html
+    - text: "Introduction"
+      href: section1.html
+    - text: "Framework for Assessing Indicators"
+      href: section2.html
+    - text: "Metrics and Criteria"
+      href: section3.html
+    - text: "Conclusion"
+      href: section4.html
+output_dir: "docs"
+output:
+  html_document:
+    css: styles.css
+
